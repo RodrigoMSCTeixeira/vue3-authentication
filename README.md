@@ -1,4 +1,4 @@
-# vue3-authentication
+# vue3 authentication, JWT, VUEX, AXIOS, ROUTER
 
 ## Project setup
 ```
